@@ -1,4 +1,3 @@
-import Contact from '@/components/contact';
 import Navbar from '@/components/navbar';
 import Hero from '@/components/hero';
 import Services from '@/components/services';
@@ -12,6 +11,7 @@ import Testimonials from '@/components/testimonials';
 import Team from '@/components/team';
 import Blog from '@/components/blog';
 import Clients from '@/components/clients';
+import Contact from '@/components/contact';
 import Footer from '@/components/footer';
 
 export default function Home() {
